@@ -1,0 +1,81 @@
+<section class="testimonial-section-two">
+		<div class="image-layer" style="background-image:url(images/background/5.jpg)"></div>
+		<div class="auto-container">
+			<h2>Some from out <span>clients</span></h2>
+			<div class="testimonial-carousel-two owl-carousel owl-theme">
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block-three">
+					<div class="inner-box">
+						<div class="row clearfix">
+							<!-- Image Column -->
+							<div class="image-column col-lg-3 col-md-4 col-sm-12">
+								<div class="inner-column">
+									<div class="image">
+										<img src="images/resource/author-5.jpg" alt="" />
+									</div>
+								</div>
+							</div>
+							<!-- Content Column -->
+							<div class="content-column col-lg-9 col-md-8 col-sm-12">
+								<div class="inner-column">
+									<div class="text"><span class="icon flaticon-left-quote"></span>So when a friend asked her to help design a house in Costa Rica, she jumped at the chance. she jumped at the chance. It was there that she stumbled upon La Iguana, a family-run cacao farm in the village of Mastatal.</div>
+									<h5>Amber Lee</h5>
+									<div class="designation">Co-founder</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block-three">
+					<div class="inner-box">
+						<div class="row clearfix">
+							<!-- Image Column -->
+							<div class="image-column col-lg-3 col-md-4 col-sm-12">
+								<div class="inner-column">
+									<div class="image">
+										<img src="images/resource/author-5.jpg" alt="" />
+									</div>
+								</div>
+							</div>
+							<!-- Content Column -->
+							<div class="content-column col-lg-9 col-md-8 col-sm-12">
+								<div class="inner-column">
+									<div class="text"><span class="icon flaticon-left-quote"></span>So when a friend asked her to help design a house in Costa Rica, she jumped at the chance. she jumped at the chance. It was there that she stumbled upon La Iguana, a family-run cacao farm in the village of Mastatal.</div>
+									<h5>Amber Lee</h5>
+									<div class="designation">Co-founder</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Testimonial Block -->
+				<div class="testimonial-block-three">
+					<div class="inner-box">
+						<div class="row clearfix">
+							<!-- Image Column -->
+							<div class="image-column col-lg-3 col-md-4 col-sm-12">
+								<div class="inner-column">
+									<div class="image">
+										<img src="images/resource/author-5.jpg" alt="" />
+									</div>
+								</div>
+							</div>
+							<!-- Content Column -->
+							<div class="content-column col-lg-9 col-md-8 col-sm-12">
+								<div class="inner-column">
+									<div class="text"><span class="icon flaticon-left-quote"></span>So when a friend asked her to help design a house in Costa Rica, she jumped at the chance. she jumped at the chance. It was there that she stumbled upon La Iguana, a family-run cacao farm in the village of Mastatal.</div>
+									<h5>Amber Lee</h5>
+									<div class="designation">Co-founder</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>

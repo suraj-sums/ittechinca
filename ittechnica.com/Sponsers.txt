@@ -1,0 +1,16 @@
+	<section class="sponsors-section">
+		<div class="auto-container">
+			
+			<div class="carousel-outer">
+                <!--Sponsors Slider-->
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li><div class="image-box"><a href="#"><img src="images/clients/51.jpg" alt=""></a></div></li>
+                    <li><div class="image-box"><a href="#"><img src="images/clients/52.jpg" alt=""></a></div></li>
+                    <li><div class="image-box"><a href="#"><img src="images/clients/53.jpg" alt=""></a></div></li>
+                    <li><div class="image-box"><a href="#"><img src="images/clients/54.jpg" alt=""></a></div></li>
+                    <
+                </ul>
+            </div>
+			
+		</div>
+	</section>
